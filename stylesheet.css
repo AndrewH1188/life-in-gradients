@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    min-height: 100px;
+}
+
+p {
+    margin-left: 30px;
+    padding-top: 3%;
+    color: brown;
+}
+
+.blue-to-pink {
+    background: linear-gradient(rgb(91 206 250), rgb(245 169 184));
+}
+
+.bwp-pb {
+    background: linear-gradient(rgb(91 206 250), rgb(245 169 184), white, rgb(91 206 250), rgb(245 169 184));
+}
+
+.pink-to-blue {
+    background: linear-gradient(rgb(245 169 184), rgb(91 206 250));
+}
+
+.pi-wh-pu-bla-blu {
+    background: linear-gradient(#FF76A4, #FFF, #C011D7, #000000, #2F3CBE);
+}
+
+.rowpp {
+    background: linear-gradient(#D52D00, #EF7627, #FF9A56, #FFF, #D162A4, #B55690, #A30262);
+}
+
+.eng {
+    background: linear-gradient(#D52D00, #EF7627, #FF9A56, #FFF, #D162A4, #B55690, #A30262);
+}
